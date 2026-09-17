@@ -26,10 +26,14 @@
 
 ## 🖼️ Preview
 
-> Replace the image path below with your own screenshot after adding it to the repository.
-
 <div align="center">
-  <img src="assets/portfolio-preview.png" alt="Portfolio Website Preview" width="950"/>
+  <img width="1905" height="928" alt="home" src="https://github.com/user-attachments/assets/dd4ef50c-93f2-4c8a-ba05-eb313d14d695" />
+  <img width="1902" height="907" alt="about" src="https://github.com/user-attachments/assets/09c078ef-56e4-4a99-b023-c2b5ee343c58" />
+  <img width="1889" height="930" alt="projects" src="https://github.com/user-attachments/assets/b9fb7376-f53f-477b-9eec-803464e2f707" />
+  <img width="1903" height="927" alt="contact" src="https://github.com/user-attachments/assets/9969c6d9-ac3d-4f08-b2b6-646023e9f798" />
+
+
+
 </div>
 
 ---
